@@ -1,4 +1,4 @@
 # TugasTCC06
-Yohanes Kawak 
-135410011
-jangkrik Boss
+Nama :Yohanes Kawak 
+NIM :135410011
+
